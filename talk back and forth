@@ -1,0 +1,5 @@
+name = input("What is your name?") #say your name
+age = input("Hello, it is very nice to meet you, what is your age?") #state your age
+print("It is very nice to meet you, so you are", age)
+ready = input("are you ready to code?") # say "yes but we already are"
+print("Oh I must have fogotten that, but let's code more!")
